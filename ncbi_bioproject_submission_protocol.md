@@ -135,7 +135,7 @@ After submission, NCBI recommends allowing at least **24 hours** for processing 
 
 ---
 
-### 9. Special caution for human data
+### 7. Special caution for human data
 If the sequencing data are human and require controlled access, do **not** use the standard public SRA workflow.
 
 Instead, submit through **dbGaP**.
